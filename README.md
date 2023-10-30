@@ -23,7 +23,7 @@ To get started with AutoClicker, follow these steps:
 1. **Clone the Repository:** 
    ```sh
    git clone https://github.com/gyu29/macOS-AutoClicker
-   cd autoclicker-macos
+   cd macOS-AutoClicker
 
   Open in Xcode:
   Open the Xcode project and build the application.
